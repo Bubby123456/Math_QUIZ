@@ -1,0 +1,8 @@
+body {
+    background-color: pink;
+}
+.question_div {
+    background-color: white;
+    border-radius: 10px;
+    width: 800px;
+}
